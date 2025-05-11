@@ -13,7 +13,7 @@ Bem-vindo(a) ao meu perfil! Sou apaixonado por desenvolvimento de software, tecn
 
 > Sempre explorando novas ferramentas e linguagens!
 
-## 💡 Em busca de projetos e colaborações. 
+>  Em busca de projetos e colaborações. 
 
 ## 💡 Um pouco mais sobre mim
 
