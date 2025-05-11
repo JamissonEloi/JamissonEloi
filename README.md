@@ -13,6 +13,8 @@ Bem-vindo(a) ao meu perfil! Sou apaixonado por desenvolvimento de software, tecn
 
 > Sempre explorando novas ferramentas e linguagens!
 
+## 💡 Em busca de projetos e colaborações. 
+
 ## 💡 Um pouco mais sobre mim
 
 - 🔭 Atualmente trabalhando em: Vendedor de Doces e Embalagens, e projetos pessoais para pessoas e estabelecimentos próximos.
